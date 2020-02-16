@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:132979028302:function:675aff24-4e71-499f-9ce9-944c671ac628:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "2020 Democratic Candidate Quiz",
+          "summary": "Find out which Democratic candidates agree with you on all the issues.",
+          "description": "Find out which Democratic Candidates agree with you on all the issues.\n\nAnswer 20 questions on issues facing the US and see which Democratic candidates see eye to eye.\n\nTo start, just say \"Alexa, launch Democratic Candidates Quiz\"\n\nAt anytime, you can stop the game by saying \"Alexa, stop\"",
+          "examplePhrases": [
+            "Alexa, open democratic candidate quiz",
+            "Alexa, who should I vote for"
+          ],
+          "keywords": [
+            "quiz",
+            "games",
+            "politics"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Include your testing instruction (if any) here",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    }
+  }
+}
